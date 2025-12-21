@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca778e7-dc10-4bb0-b92e-de7bb3914d3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/todos.db" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/todos.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,26 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.OpenAi_Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.myapi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.OpenAi_Test.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.myapi.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +79,7 @@
       <workItem from="1766043861215" duration="7065000" />
       <workItem from="1766051217551" duration="4987000" />
       <workItem from="1766256315708" duration="15902000" />
-      <workItem from="1766349926290" duration="326000" />
+      <workItem from="1766349926290" duration="5169000" />
     </task>
     <servers />
   </component>
