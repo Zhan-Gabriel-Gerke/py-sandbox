@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca778e7-dc10-4bb0-b92e-de7bb3914d3d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/routes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/routes/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/routes/todos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/todos.db" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/todos.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zange\PycharmProjects\py-sandbox\FastAPI - The Complete Course 2026 (Beginner + Advanced)\Project3\routes" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,7 +86,7 @@
       <workItem from="1766043861215" duration="7065000" />
       <workItem from="1766051217551" duration="4987000" />
       <workItem from="1766256315708" duration="15902000" />
-      <workItem from="1766349926290" duration="5169000" />
+      <workItem from="1766349926290" duration="8262000" />
     </task>
     <servers />
   </component>
