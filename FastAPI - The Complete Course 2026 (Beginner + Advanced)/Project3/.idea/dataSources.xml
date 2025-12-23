@@ -67,5 +67,19 @@
         </library>
       </libraries>
     </data-source>
+    <data-source source="LOCAL" name="TodoApplicationDatabase@localhost" uuid="2c2cb205-4f73-4450-9d1e-beffb592a5fb">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/TodoApplicationDatabase</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="TodoApplicationDatabase@localhost [2]" uuid="ae7a0fba-868f-4fe6-99eb-20e1c38fc0b5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/TodoApplicationDatabase</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
