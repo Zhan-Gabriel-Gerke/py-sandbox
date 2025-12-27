@@ -31,10 +31,7 @@ def test_change_password_invalid_current_password(test_user):
 
 def test_change_phone_number_success(test_user):
     response = client.put("/users/phone_number", json={"password": "testpassword",
-                                                       "new_phone_number": "(222)-222-2222"}                                                   )
+                                                       "new_phone_number": "(222)-222-2222"})
     assert response.status_code == status.HTTP_204_NO_CONTENT
-
-
-
 
 

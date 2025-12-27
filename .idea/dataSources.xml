@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="todos" uuid="8cad56d6-86b9-48c2-8f83-51f568a2ab72">
+    <data-source source="LOCAL" name="todosapp" uuid="540143df-8c34-4505-84e6-b8254f28dadb">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/todos.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/FastAPI - The Complete Course/todosapp.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
       <libraries>
         <library>

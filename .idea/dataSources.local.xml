@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="PY-252.26830.99">
-    <data-source name="todos" uuid="8cad56d6-86b9-48c2-8f83-51f568a2ab72">
+    <data-source name="todosapp" uuid="540143df-8c34-4505-84e6-b8254f28dadb">
       <database-info product="SQLite" version="3.45.1" jdbc-version="4.2" driver-name="SQLite JDBC" driver-version="3.45.1.0" dbms="SQLITE" exact-version="3.45.1" exact-driver-version="3.45">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>

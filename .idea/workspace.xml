@@ -5,66 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca778e7-dc10-4bb0-b92e-de7bb3914d3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_todos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/413b70cd-cb7e-4dfa-adbf-a974749d4960.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/413b70cd-cb7e-4dfa-adbf-a974749d4960/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/static/js/jquery-slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/static/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/static/js/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/templates/add-todo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/templates/edit-todo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/templates/todo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/.idea/FastAPI - The Complete Course 2026 (Beginner + Advanced).iml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/.idea/FastAPI - The Complete Course 2026 (Beginner + Advanced).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project1/books.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project1/books.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project2/books.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project2/books.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.idea/Project3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.idea/Project3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.idea/data_source_mapping.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/alembic.ini" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/alembic.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/alembic/README" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/alembic/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/alembic/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/alembic/env.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/alembic/script.py.mako" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/alembic/script.py.mako" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/alembic/versions/7ffa568027e9_create_phone_number_for_user_column.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/alembic/versions/7ffa568027e9_create_phone_number_for_user_column.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/routes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/routes/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/routes/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/routes/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/routes/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/routes/auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/routes/todos.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/routes/todos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/routes/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/routes/users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/test/test_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/todosapp.db" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/todosapp.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project3/todosapp_v2.db" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/todosapp_v2.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/OOP/Animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/OOP/Animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/OOP/Dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/OOP/Dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/OOP/Enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/OOP/Enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/OOP/Hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/OOP/Hero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/OOP/Ogre.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/OOP/Ogre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/OOP/Weapon.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/OOP/Weapon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/OOP/Zombie.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/OOP/Zombie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/OOP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/OOP/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Refresh/sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Refresh/sets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/routes/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/routes/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/routes/todos.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/routes/todos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_todos.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_todos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/test_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/testdb.db" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test/testdb.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI - The Complete Course/todosapp.db" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI - The Complete Course/todosapp.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +43,7 @@
       <list>
         <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -95,6 +63,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test.executor": "Run",
     "Python.OpenAi_Test.executor": "Run",
@@ -107,17 +76,22 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/zange/PycharmProjects/py-sandbox",
+    "last_opened_file_path": "C:/Users/zange/PycharmProjects/py-sandbox/FastAPI - The Complete Course/Project3/static/css",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.android.studio.ml.bot.mainConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zange\PycharmProjects\py-sandbox\FastAPI - The Complete Course\Project3\static\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zange\PycharmProjects\py-sandbox\FastAPI - The Complete Course\Project3\static\js" />
       <recent name="C:\Users\zange\PycharmProjects\py-sandbox\FastAPI - The Complete Course 2026 (Beginner + Advanced)\Project3\routes" />
     </key>
   </component>
@@ -164,7 +138,7 @@
       <workItem from="1766256315708" duration="15902000" />
       <workItem from="1766349926290" duration="8262000" />
       <workItem from="1766550707910" duration="16000" />
-      <workItem from="1766550761371" duration="21120000" />
+      <workItem from="1766550761371" duration="37908000" />
     </task>
     <servers />
   </component>
@@ -176,6 +150,6 @@
     <SUITE FILE_PATH="coverage/py_sandbox$OpenAi_Test.coverage" NAME="OpenAi_Test Coverage Results" MODIFIED="1766060030149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pydantic" />
     <SUITE FILE_PATH="coverage/py_sandbox$test.coverage" NAME="test Coverage Results" MODIFIED="1766289272803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FastAPI - The Complete Course 2026 (Beginner + Advanced)/Project2" />
     <SUITE FILE_PATH="coverage/py_sandbox$myapi.coverage" NAME="myapi Coverage Results" MODIFIED="1766044214263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/FastApiTest" />
-    <SUITE FILE_PATH="coverage/py_sandbox$.coverage" NAME=" Coverage Results" MODIFIED="1766648756323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test" />
+    <SUITE FILE_PATH="coverage/py_sandbox$.coverage" NAME=" Coverage Results" MODIFIED="1766829010548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FastAPI - The Complete Course/Project3/test" />
   </component>
 </project>
